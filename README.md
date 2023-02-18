@@ -1,1 +1,1 @@
-# Sudoku-prolog
+# Sudoku solver in Prolog
